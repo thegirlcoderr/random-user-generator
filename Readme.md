@@ -10,7 +10,7 @@
   - [Acknowledgment](#acknowledgment)
 - [Author](#author)
 
-## Overview
+
 
 ### The challenge
 
