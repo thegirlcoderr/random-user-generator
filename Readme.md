@@ -1,4 +1,5 @@
-### Challenge: A Random user generator app built with vanilla Js. - Live Site URL: [Click here to check it out!](https://random-user-generator-thegirlcoder.netlify.app/)
+### Challenge: A Random user generator app built with vanilla Js.
+ - Live Site URL: [Click here to check it out!](https://random-user-generator-thegirlcoder.netlify.app/)
 
 
 - ## Table of contents
